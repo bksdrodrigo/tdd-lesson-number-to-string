@@ -2,11 +2,9 @@
   "name": "node-tdd-base",
   "version": "0.0.0",
   "description": "Minimalists boilerplate for node TDD.",
-  "type": "module",
   "engines": {
     "node": ">= 14.15 <15"
   },
-
   "devDependencies": {
     "@types/jest": "~26.0.15",
     "@types/node": "~14.14",
@@ -33,7 +31,6 @@
   "author": "Suren Rodrigo <bksdrodrigo@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "commander": "^6.2.1",
     "tslib": "~2.0.3"
   },
   "volta": {
